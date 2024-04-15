@@ -16,4 +16,7 @@ Ce projet vise à fournir un exemple de base pour les débutants en utilisant Gi
 4. Lier le projet à GitHub.
 5. Activer GitHub Pages.
 
+### Visiter
+[Visiter](https://jahswant.github.io/SEMAINE14FIN/)
+
 Pour démarrer le projet, assurez-vous d'avoir Git installé sur votre système, puis suivez les instructions ci-dessus.
